@@ -10,6 +10,8 @@ This repository **contains only a guide** on how to install Overleaf Community E
 
 All instructions in this guide reference the official Overleaf Community Edition software. If you encounter any issues with the software itself, please direct them to the official Overleaf project, not to this guide repository.
 
+If Overleaf or any authorized representative of Overleaf wishes for this guide to be removed for any reason, they may simply contact me directly, and I will promptly comply with their request. This guide was created with the sole intention of helping individuals in emergency situations and with no intention to infringe upon Overleaf's rights or interests.
+
 ### Important Warning and Liability Disclaimer
 This guide is provided "AS IS" without any warranties of any kind, either express or implied. By using this guide, you assume all risks and responsibilities for:
 
