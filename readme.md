@@ -3,7 +3,7 @@
 ## Disclaimer
 I am not affiliated with the Overleaf project in any way. I would like to thank the creators of Overleaf (https://github.com/overleaf/overleaf) for their amazing work.
 
-Given the recent Overleaf downtime, I decided to self-host it on a VPS (ubuntu-s-2vcpu-4gb) to use at least in emergency situations. Currently, I haven't been able to make all complex libraries work, but it functions with basic features and allows me to continue working. This is the dummies guide I wish I had found.
+To experiment, I decided to self-host it on a VPS (ubuntu-s-2vcpu-4gb) to use at least in emergency situations. Currently, I haven't been able to make all complex libraries work, but it functions with basic features and allows me to continue working. This is the dummies guide I wish I had found.
 
 ### Important Clarifications
 This repository **contains only a guide** on how to install Overleaf Community Edition. It does **not** provide the Overleaf software itself, which is only available through the official repository at https://github.com/overleaf/overleaf. For any software updates, official documentation, or support, please refer to the official Overleaf repository.
